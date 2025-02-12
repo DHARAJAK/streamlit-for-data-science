@@ -47,8 +47,8 @@ new_prediction = rfc.predict(
             island_biscoe,
             island_dream,
             island_torgersen,
-            sex_male,
             sex_female,
+            sex_male,
         ]
     ]
 )
